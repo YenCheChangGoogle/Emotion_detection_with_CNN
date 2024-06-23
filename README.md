@@ -2,7 +2,7 @@
 
 ![emotion_detection](https://github.com/datamagic2020/Emotion_detection_with_CNN/blob/main/emoition_detection.png)
 
-### Packages need to be installed
+### Packages need to be installed (需使用管理者模式執行)
 - pip install numpy
 - pip install opencv-python
 - pip install keras
